@@ -4,8 +4,6 @@ import java.util.Scanner;
  * Refer to : 
  * http://www.comp.nus.edu.sg/~cs1010/labs/2015s2/lab2/controlstructures.html
  * Ex1 for original Code and instructions
- * 
- * @author yanxian
  *
  */
 public class Candle {
