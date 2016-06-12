@@ -16,6 +16,8 @@ public class SquareFreeCalculator {
 		int upper2 = 0;
 		StringBuilder sb;
 		System.out.print("Enter four positive integers: ");
+		//TODO : Capture Input Here
+		//Note : You may refer Candle.java for an Example on how to do so. 
 		
 		//TODO : Make at least 1 function call to compute the number of square-free numbers 
 		//TODO : Replace the variables below with the appropriate values 
